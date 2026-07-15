@@ -17,12 +17,9 @@ I am a passionate **Web Developer** based in Ethiopia, focusing on **Python** an
 | **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
 | **Backend/DB** | ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
 
----
-
  🛠️ Featured Projects
  🌍 **[Weather App](https://adisu-dev.github.io/weather-app/)** - A real-time weather application built with APIs።
  🎮 **[Python Games](https://github.com/Adisu-Dev/python-games)** - A collection of interactive games built using Python።
-
 
  📫 Connect with me
  💬 Ask me about **Python** or **SQL**።
