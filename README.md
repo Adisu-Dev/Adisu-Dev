@@ -23,14 +23,6 @@ I am a passionate **Web Developer** based in Ethiopia, focusing on **Python** an
  🌍 **[Weather App](https://adisu-dev.github.io/weather-app/)** - A real-time weather application built with APIs።
  🎮 **[Python Games](https://github.com/Adisu-Dev/python-games)** - A collection of interactive games built using Python።
 
----
-
- 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adisu-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-</p>
-
----
 
  📫 Connect with me
  💬 Ask me about **Python** or **SQL**።
